@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salmanlania" height="30" width="40" /></a>
-<a href="https://twitter.com/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmanlania" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanlania" height="30" width="40" /></a>
 <a href="https://codesandbox.com/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="salmanlania" height="30" width="40" /></a>
 <a href="https://fb.com/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanlania" height="30" width="40" /></a>
