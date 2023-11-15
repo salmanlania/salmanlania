@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanlania" alt="salmanlania" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/salmanlania" target="blank"><img src="https://img.shields.io/twitter/follow/salmanlania?logo=twitter&style=for-the-badge" alt="salmanlania" /></a> </p>
+
 
 - 🔭 I’m currently working on [Foodpanda App](https://lania-foods.web.app)
 
