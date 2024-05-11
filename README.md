@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Firebase, Reactjs**
 
-- 📫 How to reach me **muhammadsalmanlania@gmail.com**
+- 📫 How to reach me **salmanlania@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/salmanlania/resume](https://github.com/salmanlania/resume)
 
