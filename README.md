@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salmanlania.web.app](https://salmanlania.web.app)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Firebase, Reactjs**
+- 💬 Ask me about **HTML, CSS, Material UI, Tailwind CSS, Bootstrap, Javascript, Firebase, Reactjs, Nextjs**
 
 - 📫 How to reach me **salmanlania@gmail.com**
 
@@ -27,6 +27,7 @@
 <a href="https://fb.com/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanlania" height="30" width="40" /></a>
 <a href="https://instagram.com/salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanlania" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@salmanlania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salmanlania" height="30" width="40" /></a>
+<a href="https://salmanlania.web.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/browser.svg" alt="salmanlania" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
