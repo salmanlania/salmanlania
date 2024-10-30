@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://salmanlania.web.app](https://salmanlania.web.app)
+- 👨‍💻 All of my projects are available at [https://salmanlania.web.app](https://salmanlania.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, Material UI, Tailwind CSS, Bootstrap, Javascript, Firebase, Reactjs, Nextjs**
 
