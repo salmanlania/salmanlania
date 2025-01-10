@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salmanlania.web.app](https://salmanlania.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, Material UI, Tailwind CSS, Bootstrap, Javascript, Firebase, Reactjs, Nextjs**
+- 💬 Ask me about **HTML, CSS, Material UI, Tailwind CSS, Bootstrap, Javascript, Firebase, Supabase, React JS, Vite JS, Next JS**
 
 - 📫 How to reach me **salmanlania@gmail.com**
 
